@@ -1,0 +1,7 @@
+READ ME!!!!!!
+
+In order to win you must select the correct attack in order to deal damage to the enemy as enemies are immune to the element
+any element that is not their weakness
+
+Should combat not begin on the startup of the PA application simply hold the S key to move away from the enemy then W to move 
+towards the enemy and begin combat.
